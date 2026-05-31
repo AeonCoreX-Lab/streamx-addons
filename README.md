@@ -1,11 +1,11 @@
-# StreamX Providers
+# StreamX Addons
 
 Official addon source for StreamX Ultra.
 
 ## Usage in StreamX app
 Settings → Addons → Add Source:
-- **Author**: `himanshu8443`
-- **URL**: `https://YOUR_GITHUB_USERNAME.github.io/streamx-providers`
+- **Author**: `AeonCoreX-Lab`
+- **URL**: `https://aeoncorex-lab.github.io/streamx-addons`
 
 ## Provider list
 37 providers: vega, hdhub4u, filmyfly, autoEmbed, katmovies, topmovies, 
