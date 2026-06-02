@@ -1,0 +1,98 @@
+[
+  {
+    "manifest": {
+      "id":          "community.mediafusion.main",
+      "version":     "5.5.2",
+      "name":        "MediaFusion",
+      "description": "Open-source streaming platform for Movies, Series, and Live TV.",
+      "logo":        "https://i.imgur.com/mediafusion.png",
+      "types":       ["movie", "series", "tv"],
+      "resources":   ["stream", "catalog"],
+      "idPrefixes":  ["tt"],
+      "catalogs":    []
+    },
+    "transportUrl": "https://mediafusion.elfhosted.com/manifest.json",
+    "kind":  "HTTP_ENDPOINT",
+    "flags": { "official": false, "verified": true,  "nsfw": false, "stars": 599 }
+  },
+  {
+    "manifest": {
+      "id":          "community.torrentio.main",
+      "version":     "0.0.14",
+      "name":        "Torrentio",
+      "description": "Provides torrent streams from multiple indexers via debrid services.",
+      "logo":        "https://i.imgur.com/torrentio.png",
+      "types":       ["movie", "series"],
+      "resources":   ["stream"],
+      "idPrefixes":  ["tt"],
+      "catalogs":    []
+    },
+    "transportUrl": "https://torrentio.strem.fun/manifest.json",
+    "kind":  "HTTP_ENDPOINT",
+    "flags": { "official": false, "verified": true, "nsfw": false, "stars": 847 }
+  },
+  {
+    "manifest": {
+      "id":          "community.comet.elfhosted",
+      "version":     "2.0.0",
+      "name":        "Comet",
+      "description": "Stremio's fastest torrent and debrid search addon.",
+      "logo":        "https://i.imgur.com/comet.png",
+      "types":       ["movie", "series"],
+      "resources":   ["stream"],
+      "idPrefixes":  ["tt"],
+      "catalogs":    []
+    },
+    "transportUrl": "https://comet.elfhosted.com/manifest.json",
+    "kind":  "HTTP_ENDPOINT",
+    "flags": { "official": false, "verified": true, "nsfw": false, "stars": 711 }
+  },
+  {
+    "manifest": {
+      "id":          "community.aiostreams.main",
+      "version":     "2.30.2",
+      "name":        "AIOStreams",
+      "description": "Consolidates multiple addons and debrid services into a single addon.",
+      "logo":        "https://i.imgur.com/aiostreams.png",
+      "types":       ["movie", "series"],
+      "resources":   ["stream"],
+      "idPrefixes":  ["tt"],
+      "catalogs":    []
+    },
+    "transportUrl": "https://aiostreams.elfhosted.com/manifest.json",
+    "kind":  "HTTP_ENDPOINT",
+    "flags": { "official": false, "verified": true, "nsfw": false, "stars": 517 }
+  },
+  {
+    "manifest": {
+      "id":          "community.opensubtitlesv3.main",
+      "version":     "1.0.0",
+      "name":        "OpenSubtitles v3",
+      "description": "Free subtitles from OpenSubtitles.org for any content.",
+      "logo":        "https://i.imgur.com/opensubtitles.png",
+      "types":       ["movie", "series"],
+      "resources":   ["subtitles"],
+      "idPrefixes":  ["tt"],
+      "catalogs":    []
+    },
+    "transportUrl": "https://opensubtitles-v3.strem.io/manifest.json",
+    "kind":  "HTTP_ENDPOINT",
+    "flags": { "official": false, "verified": true, "nsfw": false, "stars": 423 }
+  },
+  {
+    "manifest": {
+      "id":          "community.subsource.main",
+      "version":     "1.3.9",
+      "name":        "SubSource Subtitles",
+      "description": "Subtitles from SubSource.net.",
+      "logo":        "https://i.imgur.com/subsource.png",
+      "types":       ["movie", "series"],
+      "resources":   ["subtitles"],
+      "idPrefixes":  ["tt"],
+      "catalogs":    []
+    },
+    "transportUrl": "https://subsource.elfhosted.com/manifest.json",
+    "kind":  "HTTP_ENDPOINT",
+    "flags": { "official": false, "verified": true, "nsfw": false, "stars": 115 }
+  }
+]
