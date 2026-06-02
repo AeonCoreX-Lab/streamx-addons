@@ -51,7 +51,7 @@ var getBaseUrl = /* @__PURE__ */ __name((providerValue) => __async(null, null, f
     const cacheKey = "CacheBaseUrl" + providerValue;
     const timeKey = "baseUrlTime" + providerValue;
     const baseUrlRes = yield fetch(
-      "https://himanshu8443.github.io/providers/modflix.json"
+      "https://aeoncorex.github.io/streamx-addons/modflix.json"
     );
     const baseUrlData = yield baseUrlRes.json();
     baseUrl = baseUrlData[providerValue].url;
