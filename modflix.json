@@ -9,11 +9,11 @@
   },
   "Topmovies": {
     "name": "Topmovies",
-    "url": "https://moviesleech.bar"
+    "url": "https://moviesleech.asia"
   },
   "UhdMovies": {
     "name": "UhdMovies",
-    "url": "https://uhdmovies.food"
+    "url": "https://uhdmovies.casa"
   },
   "filepress": {
     "name": "filepress",
@@ -21,11 +21,11 @@
   },
   "Vega": {
     "name": "vegamovies",
-    "url": "https://vegamovies.vodka"
+    "url": "https://vegamovies.navy"
   },
   "lux": {
     "name": "luxmovies",
-    "url": "https://rogmovies.blog"
+    "url": "https://rogmovies.rest"
   },
   "drive": {
     "name": "moviesDrive",
@@ -33,11 +33,11 @@
   },
   "multi": {
     "name": "multimovies",
-    "url": "https://multimovies.autos"
+    "url": "https://multimovies.fyi"
   },
   "w4u": {
     "name": "world4ufree",
-    "url": "https://new1.world4ufree.cl"
+    "url": "https://world4ufree.im"
   },
   "extra": {
     "name": "extraMovies",
@@ -45,11 +45,11 @@
   },
   "hdhub": {
     "name": "hdhub4u",
-    "url": "https://new4.hdhub4u.fo"
+    "url": "https://new3.hdhub4u.cl"
   },
   "kat": {
     "name": "katmovieshd",
-    "url": "https://katmoviehd.pictures"
+    "url": "https://new.katmoviehd.top"
   },
   "dc": {
     "name": "dramacool",
@@ -85,7 +85,7 @@
   },
   "primewire": {
     "name": "primewire",
-    "url": "https://primewire.si"
+    "url": "https://primewire.pw"
   },
   "rive": {
     "name": "rive",
@@ -113,7 +113,7 @@
   },
   "moviesapi": {
     "name": "moviesapi",
-    "url": "https://moviesapi.to"
+    "url": "https://vidspark.to"
   },
   "ridomovies": {
     "name": "ridomovies",
@@ -141,7 +141,7 @@
   },
   "4khdhub": {
     "name": "4khdhub",
-    "url": "https://4khdhub.dad"
+    "url": "https://4khdhub.one"
   },
   "moviezwap": {
     "name": "moviezwap",
@@ -157,11 +157,11 @@
   },
   "cinevood": {
     "name": "Cinevood",
-    "url": "https://kmmovies.space"
+    "url": "https://kmmovies.shop"
   },
   "kmmovies": {
     "name": "kmmovies",
-    "url": "https://kmmovies.space"
+    "url": "https://kmmovies.shop"
   },
   "zeefliz": {
     "name": "zeefliz",
@@ -173,7 +173,7 @@
   },
   "movies4u": {
     "name": "movies4u",
-    "url": "https://movies4u.ee"
+    "url": "https://movies4u.ar"
   },
   "joya9tv": {
     "name": "joya9tv1",
@@ -181,10 +181,14 @@
   },
   "skymovieshd": {
     "name": "skyMovesHd",
-    "url": "https://skymovieshd.fast"
+    "url": "https://skymovieshd.ceo"
   },
   "1cinevood": {
     "name": "cinewood",
-    "url": "https://proxy01.cvproxy.workers.dev"
+    "url": "https://1cinevood.live"
+  },
+  "uniquestream": {
+    "name": "uniquestream",
+    "url": "https://anime.uniquestream.net"
   }
 }
